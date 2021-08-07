@@ -1,3 +1,3 @@
 # LGMVIP-DataScience
-LetsGrowMore Internship Tasks
-Task #1- 2)Stock Market Prediction And Forecasting Using Stacked LSTM
+LetsGrowMore Internship Tasks\n
+Task #1-Stock Market Prediction And Forecasting Using Stacked LSTM
